@@ -1,5 +1,5 @@
 <h1>Projects focused on using smart contracts for insurance </h1>
-Arbol
+[Arbol] (https://github.com/LawSnap/Legal-Innovation/blob/0f20aa726a03319a5c1cf25f9ad18df61e523ee9/Arbol.md) 
 Etherisc
 
 My video on this
