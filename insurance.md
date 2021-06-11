@@ -7,7 +7,7 @@ My video on this
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=ehA_YFy8RAU"
+    src="https://www.youtube.com/embed/ehA_YFy8RAU"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
